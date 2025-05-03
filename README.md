@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Magnus
-- 👀 I’m interested in python for data science
+- 👀 I’m interested in Python, R and data science
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
