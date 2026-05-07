@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Magnus
 - 👀 I’m interested in Python, R and data science
 - 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 📫 How to reach me: chagasmagno207@gmail.com
 
 <!---
 magnu3/magnu3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
